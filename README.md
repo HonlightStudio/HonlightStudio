@@ -8,7 +8,7 @@
 <br><br>
   
  <!-- Image on the right -->
-<img width="40%" align="right" alt="Profile Image" src="https://i.imghippo.com/files/YaE6011.png"/>
+<img width="40%" align="right" alt="Profile Image" src="https://img.magnific.com/premium-vector/cartoon-character-with-laptop-green-screen_863867-3871.jpg"/>
 
 <!-- Text content on the left -->
 <p align="left">
@@ -77,12 +77,12 @@
 <p align="center">
    <a href="mailto:pathak.arpita6497@gmail.com?subject=Hi%20Arpita%20,%20nice%20to%20meet%20you!"><img
       align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arpita-pathak-825a7a1b1/"><img align="center"
+  <a href="https://www.linkedin.com/in/hoseinghasemi8411/"><img align="center"
       src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
       alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sele_no_phile_0/"><img align="center"
-      src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
-      alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.youtube.com/@Honlight"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+      alt="Youtube" height="50" /></a>
 </p>
 <br />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -96,33 +96,33 @@
   </ul>
 </div>
 <p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pathak-arpita&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"
-    alt="arpita" />
-</p>
-<p>&nbsp;<img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=pathak-arpita&show_icons=true&locale=en&theme=vision-friendly-dark"
-    alt="arpita" width="410" />
+  <img align="center"
+    src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
+    alt="arpita" width="60"/>
+  <img align="center"
+    src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
+    alt="arpita" width="60"/>
+  <img align="center"
+    src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
+    alt="arpita" width="60"/>
 </p>
 <br><br><br><br><br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<!-- GitHub Cup's-->
+<!-- GitHub Projects-->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
       <h2 style="display: inline-block">
-        <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="60px" height="60px">- Git profile Trophies
+        <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="60px" height="60px">- Git Projects
       </h2>
     </summary>
   </ul>
 </div>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=pathak-arpita&theme=vue&margin-w=15&margin-h=15"
-    alt="Git profile Trophies" />
+
 </p>
 <br><br><br>
 
