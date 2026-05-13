@@ -136,7 +136,7 @@
   
   <!-- ردیف دوم پروژه‌ها -->
   <a href="https://github.com/HonlightStudio/A-dapper-Project">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=HonlightStudio&repo=A-dapper-Project&theme=dracula&show_icons=true&bg_color=1F222E&hide_border=true" alt="A dapper Project" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Parsa-Attaran&repo=Music-Player&theme=dracula&show_icons=true&bg_color=1F222E&hide_border=true" alt="A dapper Project" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/HonlightStudio/img2ascii">
