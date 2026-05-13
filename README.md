@@ -45,16 +45,16 @@
 <!--tech stack icons-->
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=redux" title="Redux" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" title="css" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cs" title="cs" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp" title="cpp" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" title="mysql" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=unity" title="unity" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=flutter" title="flutter" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=dotnet" title="dotnet" />&nbsp;&nbsp;&nbsp;
   <br><br>
-    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=gradle" title="gradle" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;&nbsp;&nbsp;
