@@ -3,9 +3,7 @@
   <h2 align="center">𝐇𝐞𝐥𝐥𝐨 ,&nbsp; 𝐟𝐞𝐥𝐥𝐨𝐰 <&nbsp;C𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="84px">/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
   </h2>
 
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?lines=I+am+Arpita+%3C3;Creative+Frontend+Developer;Passionate+about+Design+%26+Code;Crafting+Pixel+Perfect+UIs;Lifelong+Learner+%26+Problem+Solver;Turning+Ideas+Into+Interactive+Experiences;&font=Architects+Daughter&color=6C63FF&center=true&width=700&height=45&size=28" 
-    alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Hossein+the+Backend+Developer+;Hiding+from+frontend+developers...;It+works+on+my+machine!+but..." alt="Typing SVG" /></a>
 
 <br><br>
   
