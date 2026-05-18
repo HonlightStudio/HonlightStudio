@@ -26,7 +26,7 @@
 <br>
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pathak-arpita&style=plastic&color=blueviolet" alt="Profile Views" width="150" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=HonlightStudio&style=plastic&color=blueviolet" alt="Profile Views" width="150" height="30" />
 </p>
 <br><br>
 
