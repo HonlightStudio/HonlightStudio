@@ -75,7 +75,7 @@
 </div>
 <!--icons and links-->
 <p align="center">
-   <a href="mailto:pathak.arpita6497@gmail.com?subject=Hi%20Arpita%20,%20nice%20to%20meet%20you!"><img
+   <a href="mailto:hosein8411@gmail.com?subject=Hi%hossein%20,%20nice%20to%20meet%20you!"><img
       align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hoseinghasemi8411/"><img align="center"
       src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
