@@ -5,6 +5,20 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Hossein+the+Backend+Developer+;Hiding+from+frontend+developers...;It+works+on+my+machine!+but..." alt="Typing SVG" /></a>
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
+
+### CE Student • C# | ASP.net Developer
+*Building scalable backends and exploring new technologies.*
+
+</div>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
+
+
 <br><br>
   
  <!-- Image on the right -->
@@ -145,6 +159,28 @@
 </p>
 
 <br><br><br>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
+
+# 🔥 GitHub Streak
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HonlightStudio&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<br><br><br>
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HonlightStudio&theme=tokyo-night"/>
+
+</p>
+
+<br><br><br>
 
 
 <!--Footer-->
@@ -154,4 +190,4 @@
 
 <br>
 
-## Last Edited On: 05/13/2026
+## Last Edited On: 07/4/2026
